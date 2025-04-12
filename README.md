@@ -1,5 +1,5 @@
 # referencia-munkak
-Balogh Adrienn referenciamunkái
+Balogh Adrienn referencia munkái
 
 ## Social media
 A kommOn Szakkollégiumnak és a MŰSZAK Szakkollégiumnak is készítettem több posztot instagramra, illetve facebook eseményekhez borítóképet, ezekből egy pár példát csatoltam. (aktív tag poszt, szakmai est, vezetősségi tréning, MŰSZAK Kupa)
