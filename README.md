@@ -1,11 +1,11 @@
 # referencia-munkak
-Balogh Adrienn referencia munkái
+Balogh Adrienn referencia munkái.
 
 ## Social media
 A kommOn Szakkollégiumnak és a MŰSZAK Szakkollégiumnak is készítettem több posztot instagramra, illetve facebook eseményekhez borítóképet, ezekből egy pár példát csatoltam. (aktív tag poszt, szakmai est, vezetősségi tréning, MŰSZAK Kupa)
 
-## KommON Konferencia
-Ezt az eseményt a Szakmai csapattal szerveztük, ahol tanáraink tartottak előadást az újságírásról, propagandáról és a rendezvényszervezésről. Érkeztek hozzánk még előadni különböző kommunikációs területekről is (Sziget fesztivál marketingese, Mélylevegő Projekt csapata). A promóciós anyagokhoz készítettem sablonokat és különböző verziókat a PR és Brand mananagerekkel közösen.
+## kommON Rebranding
+Ez egy kezdetleges projekt volt, amiben pulóverekre terveztem új mintát, illetve az egyik sikeres eseményünk tematikájára egy új állandó borítóképet.
 
-## Rebranding
-Ez még egy nagyon kezdetleges projekt, amiben pulóverekre terveztem új mintát.
+## UNICON logó tervezés
+Egy fiatalokkal foglalkozó alapvítvány számára terveztem logót, ahol a fő fókusz a MI oktatásán van, illetve céljuk, hogy minél több fiatalnak legyen lehetősége utazni a világban különféle projekteken keresztül. 
