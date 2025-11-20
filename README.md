@@ -11,4 +11,4 @@ Ez egy kezdetleges projekt volt, amiben pulóverekre terveztem új mintát, ille
 Egy fiatalokkal foglalkozó alapvítvány számára terveztem logót, ahol a fő fókusz a MI oktatásán van, illetve céljuk, hogy minél több fiatalnak legyen lehetősége utazni a világban különféle projekteken keresztül. 
 
 ## Practical Info Sheet
-A BME-n megrendezésre kerülő EELISA PhD Sympozium eseményére készítettem egy kiadványt a külföldi hallgatók számára, ami tartalmaz minden fontos információkat az eseményről, Budapestről és az egyetemről.
+A BME-n megrendezésre kerülő EELISA PhD Sympozium eseményére készítettem egy kiadványt a külföldi hallgatók számára, ami tartalmaz minden fontos információt az eseményről, Budapestről és az egyetemről.
